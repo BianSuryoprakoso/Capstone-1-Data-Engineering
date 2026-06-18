@@ -1,1 +1,3 @@
+# Project Overview
+
 This project is a Data Engineering Capstone Project that builds an end-to-end ETL (Extract, Transform, Load) pipeline using New York Yellow Taxi Trip data for January 2026. The objective of this project is to automate data ingestion, transformation, loading, and data quality validation processes to produce clean and analysis-ready datasets. The pipeline is implemented using Python, Pandas, Shell Script Automation, Docker, and Docker Compose.
